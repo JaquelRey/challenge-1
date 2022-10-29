@@ -1,6 +1,8 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-https://jaquelrey.github.io/challenge-1/## User Story
+https://jaquelrey.github.io/challenge-1/
+
+## User Story
 
 ```
 AS A marketing agency
